@@ -1,5 +1,5 @@
 # Ionic-QR-Scanner
-Ionic 二维码扫描
+Ionic 二维码扫描  由于文件过多,上传不到`github`上, 故把源码放在了百度云上面了,有需要的,可以去下载: 链接:https://pan.baidu.com/s/1i6v7nwD  密码:a967
 
 在上班路上看了一篇文章 [ionic 使用QR Scaner 扫描](https://www.jianshu.com/p/45f8b44b9a42?utm_campaign=hugo&utm_medium=reader_share&utm_content=note),到单位后我试了, 不知道是环境版本问题,还是什么原因, ios的扫描二维码总是调不出相机, 安卓的没有问题! 超级坑......
 
