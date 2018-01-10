@@ -1,0 +1,10 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerPort="8080" builtInServerAvailableExternally="true" allowUnsignedRequests="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.9.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/8.1.2/bin/node" />
+  </component>
+</application>
