@@ -24,7 +24,7 @@ body.transparent-body,
 }
 ```
 
-原来作者在`variables.scss`设置的样式就可以不用写了,最好给他删掉或者注释掉,不然上面写的代码会不层叠掉!!!
+原来作者在`variables.scss`设置的样式就可以不用写了,最好给他删掉或者注释掉,不然上面写的代码会被层叠掉!!!
 
 在 `scan.ts` 中 当我们离开`ScanPage`页面时,最好要把 `qrScanner`, 不然整个页面是透明的, 让人很觉得很奇怪!!!
 ```
@@ -38,3 +38,4 @@ body.transparent-body,
     this.qrScanner.hide();
   }
 ```
+
